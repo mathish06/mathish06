@@ -138,6 +138,8 @@ I'm always open to collaboration and learning opportunities! Here's how you can 
 
 Thanks for stopping by! Happy coding! 🚀✨
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+---
+
+Made with ❤️ by Mathis
 
 </div>
