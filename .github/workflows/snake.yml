@@ -28,9 +28,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-          git config user.email github-actions@github.com
-          git add trophy.svg
-          git commit -m "Update trophy" || echo "No changes"
-          git push
