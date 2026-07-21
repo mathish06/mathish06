@@ -267,7 +267,7 @@ Solo founder and developer of a B2B SaaS automating invoice recovery for BTP art
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mathish06&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://raw.githubusercontent.com/mathish06/mathish06/main/trophy.svg" />
 
 </div>
 
