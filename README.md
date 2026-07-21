@@ -255,7 +255,7 @@ Solo founder and developer of a B2B SaaS automating invoice recovery for BTP art
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mathish06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=e0d4ff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mathish06&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=e0d4ff" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=mathish06&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=e0d4ff" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathish06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e0d4ff" width="48%" />
 
