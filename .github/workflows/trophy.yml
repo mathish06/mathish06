@@ -1,0 +1,20 @@
+name: generate trophy
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: mathish06
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push trophy
+        run: |
+          git config user.name github-actions
